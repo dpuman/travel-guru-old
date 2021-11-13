@@ -1,0 +1,11 @@
+.header::before {
+    content: '';
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(136, 101, 101, 0.6)), url('../../assets/Image/Rectangle\ 1.png')no-repeat center center/cover;
+    position: absolute;
+    opacity: 5.0;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}

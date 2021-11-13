@@ -1,0 +1,4 @@
+.location-hover:hover {
+    border: 5px solid yellow;
+    border-radius: 20px;
+}

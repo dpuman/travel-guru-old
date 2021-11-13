@@ -1,0 +1,20 @@
+.header-spacing {
+    margin-bottom: 100px;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header .a-text {
+    color: white !important;
+}
+
+.navbar-link a:hover {
+
+    color: aqua !important;
+}
+
+.search a {
+    color: black;
+}
